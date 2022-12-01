@@ -73,6 +73,10 @@
   max-width: 800px;
 }
 
+/* .chatfield input{
+  width: 80%;
+} */
+
 .card {
   margin: 1rem;
   padding: 1.5rem;
